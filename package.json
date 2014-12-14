@@ -1,0 +1,14 @@
+{
+    "name": "Dark-Saccaco-theme",
+    "title": "Thema Beautiful and comfortable",
+    "description": "I want development happy and for that need a theme beautiful and comfortable",
+    "homepage": "https://github.com/wsecotierra/dark-saccaco-theme.git",
+    "version": "1.0.0",
+    "author": "Waldo Saccaco <w.saccaco@gmail.com>",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true
+    },
+    "keywords": ["theme", "happy", "Brackets", "Dark", "Saccaco"]
+}
